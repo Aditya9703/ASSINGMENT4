@@ -1,0 +1,32 @@
+.color{
+    background-color: yellow;
+    padding: 4px;
+    margin: 8px;
+    margin-right: 50%;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToAgyLM8RoDKFniHwF2sWUy5BnuPP4kQCvqQ&usqp=CAU);
+}
+.submit{
+    background-color: red;
+    padding: 5px;
+    margin-right: 60%;
+    
+}
+.design{
+    background-color: blue;
+    padding: 30px;
+    width: 150px;
+    margin-right: 60%;
+    
+}
+@media only screen and (max-width:600px){
+    .body{
+        background-image: url("https://i1.wp.com/godofindia.com/wp-content/uploads/2017/05/shahrukh-khan.jpg?resize=1024%2C636&ssl=1");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+
+
+}
